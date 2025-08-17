@@ -2,7 +2,7 @@
  * @Date         : 2025-06-27 10:24:22
  * @Author       : BDFD,bdfd2005@gmail.com
  * @Github       : https://github.com/bdfd
- * @LastEditTime : 2025-06-27 11:49:47
+ * @LastEditTime : 2025-08-17 10:13:22
  * @LastEditors  : <BDFD>
  * @Description  :
  * @FilePath     : \README.md
@@ -29,25 +29,28 @@ This course enables students to deepen their understanding of chemistry through 
 
 **Course Content**
 
-- [ ] **P1-Textbook(Publisher/Year)**
+- [x] **P1-Textbook([Nelson/2011]/[Nelson])**
 - [ ] **P2-Solution Mannual(Publisher/Year)**
-- [ ] **P3-Lecture Handout(Self Prepared for Publisher/Year)**
-- [ ] **P4-Problem Set(Providers/Year)**
-- [ ] **P5-Course Project(Providers/Year)**
-- [ ] **P6-Past Quiz(Providers/Year)**
-- [ ] **P7-Past Test(Providers/Year)**
-- [ ] **P8-Past Exam(Providers/Year)**
-- [ ] **P9-Reference Note/Book(Publisher or Providers/Year)**
+- [x] **P3-Lecture Handout([TDSB01/2025]/[SP01/2025])**
+- [ ] **P3.1-Summary Note(Self Prepared for Publisher/Year)**
+- [ ] **P4-Tutorial Slide(Providers/Year)**
+- [x] **P5-Problem Set([TDSB01/2025])**
+- [x] **P6-Course Projects([TDSB01/2025])**
+- [x] **P6.1-Course Writing Activities([TDSB01/2025])**
+- [x] **P7-Pre-Class Quiz([TDSB01/2025])**
+- [x] **P8-Term Test([TDSB01/2025])**
+- [x] **P9-Final Exam Review([TDSB01/2025])**
+- [ ] **P10-Reference Note/Book([Common Handbook Grpah]/[Periodic Table Element Property])**
 
 ## Course Learn Path - Modules
 
 The courses enlisted as follows:
 
-- [ ] **C1-Matter, Chemical Trends, and Chemical Bonding**
-- [ ] **C2-Chemical Reactions**
-- [ ] **C3-Quantities in Chemical Reactionss**
-- [ ] **C4-Solutions and Solubility**
-- [ ] **C5-Gases and Atmospheric Chemistry**
+- [x] **C1-Matter, Chemical Trends, and Chemical Bonding**
+- [x] **C2-Chemical Reactions**
+- [x] **C3-Quantities in Chemical Reactionss**
+- [x] **C4-Solutions and Solubility**
+- [x] **C5-Gases and Atmospheric Chemistry**
 
 ## Course Description: 1 Course
 
@@ -94,5 +97,3 @@ These channels will likely have videos covering our course content that tend to 
 [![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/bdfd)
 
 </div>
-
-<!-- ![Certificate](https://cdn.jsdelivr.net/gh/BDFD-LearningGround/Certificate-Folder/6.0-Others/Course-Version%20Control%20with%20Git/Course-Version%20Control%20with%20Git.jpeg) -->
